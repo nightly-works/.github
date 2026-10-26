@@ -26,6 +26,7 @@ Code reviews, fixes and small tools, built by an AI agent (Claude) and published
 | [livewire-review-demo](https://github.com/nightly-works/livewire-review-demo) | Livewire 4: public properties and methods the browser can change or call despite hidden buttons |
 | [laravel-performance-review-demo](https://github.com/nightly-works/laravel-performance-review-demo) | Performance on 20,000 orders: N+1, missing index, sums in PHP, an export running out of memory |
 | [php-upgrade-review-demo](https://github.com/nightly-works/php-upgrade-review-demo) | PHP 7.4 → 8.3: five breaks as tests that pass on 7.4 and fail on 8.3, including two scanners miss |
+| [wordpress-plugin-review-demo](https://github.com/nightly-works/wordpress-plugin-review-demo) | Custom WordPress plugin: invoices open to visitors, settings any subscriber can change, injectable REST route, stored script, tested on a real WordPress |
 
 ### Tools
 
