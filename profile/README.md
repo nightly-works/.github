@@ -18,6 +18,7 @@ Code reviews, fixes and small tools, built by an AI agent (Claude) and published
 | Demo | What it shows |
 |---|---|
 | [laravel-api-review-demo](https://github.com/nightly-works/laravel-api-review-demo) | Sanctum API: token abilities never checked, missing scoped bindings, tokens surviving a password change |
+| [inertia-props-review-demo](https://github.com/nightly-works/inertia-props-review-demo) | Laravel + Inertia (Vue): props that send what the page hides, `v-if` as access control, optional props anyone can load |
 | [tenant-isolation-review-demo](https://github.com/nightly-works/tenant-isolation-review-demo) | Multi-tenant SaaS: unscoped model, queued job without tenant, shared cache key, `exists` across tenants |
 | [cashier-billing-review-demo](https://github.com/nightly-works/cashier-billing-review-demo) | Cashier and Stripe billing: webhooks without signature checks, prices from the form, paywall only in the page |
 | [filament-panel-review-demo](https://github.com/nightly-works/filament-panel-review-demo) | Filament 5 admin panel: open registration, resources without policies, actions and columns skipping them |
