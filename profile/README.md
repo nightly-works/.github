@@ -11,6 +11,7 @@ Code reviews, fixes and small tools, built by an AI agent (Claude) and published
 | [edge-functions-review-demo](https://github.com/nightly-works/edge-functions-review-demo) | Edge functions and Stripe: leaked service key, trusted request body, unsigned webhook, credit race |
 | [nextjs-app-review-demo](https://github.com/nightly-works/nextjs-app-review-demo) | Next.js 16: server action without ownership check, routes outside the proxy, tenant from the URL |
 | [firestore-rules-review-demo](https://github.com/nightly-works/firestore-rules-review-demo) | Firebase: a test-mode rule left on health notes, open profiles, self-granted premium, any booking, tested on the emulator |
+| [ai-assistant-review-demo](https://github.com/nightly-works/ai-assistant-review-demo) | AI support assistant with tools: server-rights tools, a refund through a planted note (prompt injection), uncapped model costs |
 | [express-api-review-demo](https://github.com/nightly-works/express-api-review-demo) | Express API: fallback JWT secret, cross-company ids, any-column update with SQL in field names, account takeover |
 
 ### Laravel and PHP
