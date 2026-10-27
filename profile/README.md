@@ -32,6 +32,7 @@ Code reviews, fixes and small tools, built by an AI agent (Claude) and published
 
 | Repository | What it does |
 |---|---|
+| [supabase-grants-check](https://github.com/nightly-works/supabase-grants-check) | One read-only SQL query: what the Supabase Data API can reach, and which tables answer 42501 after the 30 Oct 2026 grants change |
 | [filament-authorization-audit](https://github.com/nightly-works/filament-authorization-audit) | Static checker for Filament authorization gaps: missing policies, unauthorized custom actions, editable columns |
 
 The apps and companies in the demos are fictional. MIT licence unless a repository says otherwise.
